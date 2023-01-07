@@ -2,10 +2,9 @@ html {
     font-family: system-ui;
 }
 
-h1 {
+#logo {
     float: left;
-    padding-left: 30px;
-    color: coral;
+    padding: 30px;
 }
 
 a {
